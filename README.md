@@ -7,6 +7,4 @@ All the different frames built are shown in image.
 
 All the tables used are in file tables.sql
 
-*User Site screenshots*
-
-![] (images/1 spaces.png)
+# User Site screenshots
