@@ -6,6 +6,18 @@ My contribution in this project was the user site where a user can login, signup
 All the different frames built are shown in image.
 
 All the tables used are in file tables.sql
+User & Empoyee Side ..
+Admin Side ..
+
+Developer Tool : - Node Js .
+
+Database : - MYSql.
+
+Node JS Module .. Body-Parser, Express , Mysql .
+
+View Engine .. Extended Java Script.
+
+Language .. Java Script
 
 # User Site screenshots
 ![1](https://user-images.githubusercontent.com/50120271/62002840-1c1e4780-b12a-11e9-9a50-663273206f7b.png)
